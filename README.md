@@ -28,5 +28,5 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 * [2011 spec](http://www.w3.org/TR/2011/WD-css3-flexbox-20111129/)
 * [2012 spec](http://www.w3.org/TR/css3-flexbox/) (latest)
 * [“Old” Flexbox and “New” Flexbox](http://css-tricks.com/old-flexbox-and-new-flexbox/) (css-tricks.com)
-* [Compatibility Table for Flexible Box Layout Module](http://caniuse.com/#feat=flexbox)
-* [Some flex bugs in IE11](http://codepen.io/lerouxb/pen/jIkpD)
+* [Compatibility Table for Flexible Box Layout Module](http://caniuse.com/#feat=flexbox) (caniuse.com)
+* [Some flex bugs in IE11](http://codepen.io/lerouxb/pen/jIkpD) (codepen.io)
