@@ -1,14 +1,14 @@
 .flex {
-  /* 2009 syntax */
+  /* 2009 */
   display: -webkit-box;
   display: -moz-box;
 
-  /* 2011 syntax */
+  /* 2011 */
   display: -moz-flexbox;
   display: -ms-flexbox;
   display: -o-flexbox;
 
-  /* 2012 syntax */
+  /* 2012 */
   display: -webkit-flex;
   display: box;
   display: flexbox;
@@ -25,8 +25,12 @@
 }
  
 .flex-column {
+  /* 2009 */
   -ms-box-orient: vertical;
   -webkit-box-orient: vertical;
+  box-orient: vertical;
+
+  /* 2012 */
   -webkit-flex-direction: column;
   flex-direction: column;
 }
