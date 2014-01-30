@@ -1,0 +1,22 @@
+{
+  "name": "x-flex",
+  "version": "0.0.5",
+  "homepage": "https://github.com/aaronshaf/x-flex",
+  "authors": [
+    "Aaron Shafovaloff <aaronshaf@gmail.com>"
+  ],
+  "description": "Cross-browser implementation of CSS flex. Supports latest two major versions of browsers.",
+  "main": "index.css",
+  "keywords": [
+    "css",
+    "flex",
+    "flexbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*.md",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
