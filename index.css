@@ -17,6 +17,11 @@
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
 }
+
+.flex-initial {
+  -webkit-flex: initial;
+  flex: initial;
+}
  
 .align-items-center {
   -webkit-align-items: center;
