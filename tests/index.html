@@ -2,11 +2,19 @@
 <html>
 <head>
   <link href="../index.css" rel="stylesheet" type="text/css"/>
-  <link href="acid.css" rel="stylesheet" type="text/css"/>
+  <link href="tests.css" rel="stylesheet" type="text/css"/>
   <meta charset=utf-8 />
   <title>Cross-browser Flex Acid Test</title>
 </head>
 <body>
+  <h2>.flex-x</h2>
+  <div class="flex">
+    <div class="flex-1 background-yellow">.flex-1</div>
+    <div class="flex-2 background-red">.flex-2</div>
+    <div class="flex-3 background-green">.flex-3</div>
+    <div class="flex-4 background-pink">.flex-4</div>
+  </div>
+
   <h2>.flex-column</h2>
   <div class="flex flex-column" style="height: 300px;width: 50px;">
     <div class="flex-1 background-yellow">.flex-1</div>
@@ -15,15 +23,7 @@
     <div class="flex-4 background-pink">.flex-4</div>
   </div>
 
-  <h2>.flex-row</h2>
-  <div class="flex flex-row">
-    <div class="flex-1 background-yellow">.flex-1</div>
-    <div class="flex-2 background-red">.flex-2</div>
-    <div class="flex-3 background-green">.flex-3</div>
-    <div class="flex-4 background-pink">.flex-4</div>
-  </div>
-
-  <h2>order</h2>
+  <h2>.flex-order-x</h2>
   <div class="flex flex-row">
     <div class="flex-1 flex-order-4 background-yellow">.flex-order-4</div>
     <div class="flex-1 flex-order-3 background-red">.flex-order-3</div>

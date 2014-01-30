@@ -1,11 +1,14 @@
 .flex {
+  /* 2009 syntax */
   display: -webkit-box;
   display: -moz-box;
 
+  /* 2011 syntax */
   display: -moz-flexbox;
   display: -ms-flexbox;
   display: -o-flexbox;
 
+  /* 2012 syntax */
   display: -webkit-flex;
   display: box;
   display: flexbox;
