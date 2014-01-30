@@ -1,4 +1,4 @@
- | IE 10 | IE 11 | Firefox 25 | Firefox 26 | Chrome 31 | Chrome 32 | Safari 6 | Safari 7
+ | IE 10 | IE 11 | FF 25 | FF 26 | Ch 31 | Ch 32 | Sf 6 | Sf 7
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 .flex-row | ✗ |  |  |  |  | ✓ |  | 
 .flex-column | ✗ |  |  |  |  | ✓ |  | 
