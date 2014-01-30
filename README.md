@@ -8,7 +8,7 @@
 
 ### Heads up
 
-1. If container has flexed children, it requires explicit `height` property.
+1. Container requires explicit `height` property if it has flexed children.
 
 ## Further reading
 
