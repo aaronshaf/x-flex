@@ -94,27 +94,27 @@
 .flex-19 { box-flex: 19; flex: 19; -webkit-flex: 19; }
 .flex-20 { box-flex: 20; flex: 20; -webkit-flex: 20; }
 
-.flex-order-1 { -webkit-flex-order: 1; -moz-flex-order: 1; -ms-flex-order: 1; -o-flex-order: 1; }
-.flex-order-1 { -webkit-flex-order: 2; -moz-flex-order: 2; -ms-flex-order: 2; -o-flex-order: 2; }
-.flex-order-1 { -webkit-flex-order: 3; -moz-flex-order: 3; -ms-flex-order: 3; -o-flex-order: 3; }
-.flex-order-1 { -webkit-flex-order: 4; -moz-flex-order: 4; -ms-flex-order: 4; -o-flex-order: 4; }
-.flex-order-1 { -webkit-flex-order: 5; -moz-flex-order: 5; -ms-flex-order: 5; -o-flex-order: 5; }
-.flex-order-1 { -webkit-flex-order: 6; -moz-flex-order: 6; -ms-flex-order: 6; -o-flex-order: 6; }
-.flex-order-1 { -webkit-flex-order: 7; -moz-flex-order: 7; -ms-flex-order: 7; -o-flex-order: 7; }
-.flex-order-1 { -webkit-flex-order: 8; -moz-flex-order: 8; -ms-flex-order: 8; -o-flex-order: 8; }
-.flex-order-1 { -webkit-flex-order: 9; -moz-flex-order: 9; -ms-flex-order: 9; -o-flex-order: 9; }
-.flex-order-1 { -webkit-flex-order: 10; -moz-flex-order: 10; -ms-flex-order: 10; -o-flex-order: 10; }
-.flex-order-1 { -webkit-flex-order: 11; -moz-flex-order: 11; -ms-flex-order: 11; -o-flex-order: 11; }
-.flex-order-1 { -webkit-flex-order: 12; -moz-flex-order: 12; -ms-flex-order: 12; -o-flex-order: 12; }
-.flex-order-1 { -webkit-flex-order: 13; -moz-flex-order: 13; -ms-flex-order: 13; -o-flex-order: 13; }
-.flex-order-1 { -webkit-flex-order: 14; -moz-flex-order: 14; -ms-flex-order: 14; -o-flex-order: 14; }
-.flex-order-1 { -webkit-flex-order: 15; -moz-flex-order: 15; -ms-flex-order: 15; -o-flex-order: 15; }
-.flex-order-1 { -webkit-flex-order: 16; -moz-flex-order: 16; -ms-flex-order: 16; -o-flex-order: 16; }
-.flex-order-1 { -webkit-flex-order: 17; -moz-flex-order: 17; -ms-flex-order: 17; -o-flex-order: 17; }
-.flex-order-1 { -webkit-flex-order: 18; -moz-flex-order: 18; -ms-flex-order: 18; -o-flex-order: 18; }
-.flex-order-1 { -webkit-flex-order: 19; -moz-flex-order: 19; -ms-flex-order: 19; -o-flex-order: 19; }
-.flex-order-1 { -webkit-flex-order: 20; -moz-flex-order: 20; -ms-flex-order: 20; -o-flex-order: 20; }
-.flex-order-1 { -webkit-flex-order: 21; -moz-flex-order: 21; -ms-flex-order: 21; -o-flex-order: 21; }
-.flex-order-1 { -webkit-flex-order: 22; -moz-flex-order: 22; -ms-flex-order: 22; -o-flex-order: 22; }
-.flex-order-1 { -webkit-flex-order: 23; -moz-flex-order: 23; -ms-flex-order: 23; -o-flex-order: 23; }
-.flex-order-1 { -webkit-flex-order: 24; -moz-flex-order: 24; -ms-flex-order: 24; -o-flex-order: 24; } 
+.flex-order-1 { -webkit-flex-order: 1; -moz-flex-order: 1; -ms-flex-order: 1; -o-flex-order: 1; order: 1 }
+.flex-order-2 { -webkit-flex-order: 2; -moz-flex-order: 2; -ms-flex-order: 2; -o-flex-order: 2; order: 2 }
+.flex-order-3 { -webkit-flex-order: 3; -moz-flex-order: 3; -ms-flex-order: 3; -o-flex-order: 3; order: 3 }
+.flex-order-4 { -webkit-flex-order: 4; -moz-flex-order: 4; -ms-flex-order: 4; -o-flex-order: 4; order: 4 }
+.flex-order-5 { -webkit-flex-order: 5; -moz-flex-order: 5; -ms-flex-order: 5; -o-flex-order: 5; order: 5 }
+.flex-order-6 { -webkit-flex-order: 6; -moz-flex-order: 6; -ms-flex-order: 6; -o-flex-order: 6; order: 6 }
+.flex-order-7 { -webkit-flex-order: 7; -moz-flex-order: 7; -ms-flex-order: 7; -o-flex-order: 7; order: 7 }
+.flex-order-8 { -webkit-flex-order: 8; -moz-flex-order: 8; -ms-flex-order: 8; -o-flex-order: 8; order: 8 }
+.flex-order-9 { -webkit-flex-order: 9; -moz-flex-order: 9; -ms-flex-order: 9; -o-flex-order: 9; order: 9 }
+.flex-order-10 { -webkit-flex-order: 10; -moz-flex-order: 10; -ms-flex-order: 10; -o-flex-order: 10; order: 10 }
+.flex-order-11 { -webkit-flex-order: 11; -moz-flex-order: 11; -ms-flex-order: 11; -o-flex-order: 11; order: 11 }
+.flex-order-12 { -webkit-flex-order: 12; -moz-flex-order: 12; -ms-flex-order: 12; -o-flex-order: 12; order: 12 }
+.flex-order-13 { -webkit-flex-order: 13; -moz-flex-order: 13; -ms-flex-order: 13; -o-flex-order: 13; order: 13 }
+.flex-order-14 { -webkit-flex-order: 14; -moz-flex-order: 14; -ms-flex-order: 14; -o-flex-order: 14; order: 14 }
+.flex-order-15 { -webkit-flex-order: 15; -moz-flex-order: 15; -ms-flex-order: 15; -o-flex-order: 15; order: 15 }
+.flex-order-16 { -webkit-flex-order: 16; -moz-flex-order: 16; -ms-flex-order: 16; -o-flex-order: 16; order: 16 }
+.flex-order-17 { -webkit-flex-order: 17; -moz-flex-order: 17; -ms-flex-order: 17; -o-flex-order: 17; order: 17 }
+.flex-order-18 { -webkit-flex-order: 18; -moz-flex-order: 18; -ms-flex-order: 18; -o-flex-order: 18; order: 18 }
+.flex-order-19 { -webkit-flex-order: 19; -moz-flex-order: 19; -ms-flex-order: 19; -o-flex-order: 19; order: 19 }
+.flex-order-20 { -webkit-flex-order: 20; -moz-flex-order: 20; -ms-flex-order: 20; -o-flex-order: 20; order: 20 }
+.flex-order-21 { -webkit-flex-order: 21; -moz-flex-order: 21; -ms-flex-order: 21; -o-flex-order: 21; order: 21 }
+.flex-order-22 { -webkit-flex-order: 22; -moz-flex-order: 22; -ms-flex-order: 22; -o-flex-order: 22; order: 22 }
+.flex-order-23 { -webkit-flex-order: 23; -moz-flex-order: 23; -ms-flex-order: 23; -o-flex-order: 23; order: 23 }
+.flex-order-24 { -webkit-flex-order: 24; -moz-flex-order: 24; -ms-flex-order: 24; -o-flex-order: 24; order: 24 } 
