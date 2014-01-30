@@ -1,7 +1,7 @@
 {
   "name": "x-flex",
   "version": "0.0.1",
-  "description": "Cross-browser implementation of CSS flex. Supports latest two major versions of evergreen browsers",
+  "description": "Cross-browser implementation of CSS flex. Supports latest two major versions of browsers.",
   "main": "index.css",
   "directories": {
     "test": "tests"
