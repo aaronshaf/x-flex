@@ -13,8 +13,6 @@
   display: box;
   display: flexbox;
   display: flex;
-
-  /* default per latest spec */
 }
  
 .flex-row {
