@@ -25,6 +25,8 @@
 }
  
 .flex-column {
+  -ms-box-orient: vertical;
+  -webkit-box-orient: vertical;
   -webkit-flex-direction: column;
   flex-direction: column;
 }
