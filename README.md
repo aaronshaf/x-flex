@@ -11,4 +11,4 @@
 * [2009 spec](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/)
 * [2011 spec](http://www.w3.org/TR/2011/WD-css3-flexbox-20111129/)
 * [2012 spec](http://www.w3.org/TR/css3-flexbox/) (latest)
-* [“Old” Flexbox and “New” Flexbox](http://css-tricks.com/old-flexbox-and-new-flexbox/)
+* [“Old” Flexbox and “New” Flexbox](http://css-tricks.com/old-flexbox-and-new-flexbox/) (css-tricks.com)
