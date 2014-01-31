@@ -20,7 +20,7 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 
 ### Heads up
 
-1. Container requires explicit `height` property if it has flexed children.
+1. Container requires explicit `height` or `top`/`bottom` property if it has flexed children.
 
 ## Further reading
 
