@@ -34,3 +34,4 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 * [Compatibility Table for Flexible Box Layout Module](http://caniuse.com/#feat=flexbox) (caniuse.com)
 * [Some flex bugs in IE11](http://codepen.io/lerouxb/pen/jIkpD) (codepen.io)
 * [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
