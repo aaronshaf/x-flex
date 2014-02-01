@@ -14,27 +14,87 @@
   display: flexbox;
   display: flex;
 }
+
+.inline-flex {
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
  
 .flex-row {
+  /* 2009 */
+  -webkit-box-direction: normal;
+  -ms-box-orient: horizontal;
+  -webkit-box-orient: horizontal;
+  box-orient: horizontal;
+
+  /* 2011 */
   -webkit-flex-flow: row;
   -moz-flex-flow: row;
   -ms-flex-flow: row;
   -o-flex-flow: row;
+
+  /* 2012 */
   -webkit-flex-direction: row;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
   -ms-flex-direction: row;
   flex-direction: row;  
 }
  
+.flex-row-reverse {
+  /* 2009 */
+  -webkit-box-direction: reverse;
+  -ms-box-orient: horizontal;
+  -webkit-box-orient: horizontal;
+  box-orient: horizontal;
+
+  /* 2011 */
+  -webkit-flex-flow: row-reverse;
+  -moz-flex-flow: row-reverse;
+  -ms-flex-flow: row-reverse;
+  -o-flex-flow: row-reverse;
+
+  /* 2012 */
+  -ms-flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+ 
 .flex-column {
-  -ms-box-orient: vertical;
+  /* 2009 */
   -webkit-box-direction: normal;
+  -ms-box-orient: vertical;
   -webkit-box-orient: vertical;
   box-orient: vertical;
-  -ms-flex-direction: column;
+  
+  /* 2011 */
+  -webkit-flex-flow: column;
+  -moz-flex-flow: column;
+  -ms-flex-flow: column;
+  -o-flex-flow: column;
+
+  /* 2012 */
   -webkit-flex-direction: column;
+  -ms-flex-direction: column;
   flex-direction: column;
+}
+ 
+.flex-column-reverse {
+  /* 2009 */
+  -webkit-box-direction: reverse;
+  -ms-box-orient: vertical;
+  -webkit-box-orient: vertical;
+  box-orient: vertical;
+  
+  /* 2011 */
+  -webkit-flex-flow: column-reverse;
+  -moz-flex-flow: column-reverse;
+  -ms-flex-flow: column-reverse;
+  -o-flex-flow: column-reverse;
+
+  /* 2012 */
+  -webkit-flex-direction: column-reverse;
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
 }
  
 .flex-wrap {
