@@ -16,9 +16,9 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 .flex-x | ✓ | ✓ | ✓ |  ✓| ✓ | ✓ | ✓ | ✓
 .flex-row | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-.flex-row-reverse |  |  |  |  |  |  |  | 
+.flex-row-reverse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-column | ✓<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-.flex-column-reverse |  |  |  |  |  |  |  | 
+.flex-column-reverse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-order-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 ### Heads up
