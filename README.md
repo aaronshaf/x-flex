@@ -44,6 +44,11 @@ Heads up: In IE10, .flex-column container requires explicit `height` or `top`/`b
 [.align-self-baseline](http://jsbin.com/eKAfiHa/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
 [.align-self-stretch](http://jsbin.com/OcUjiCeB/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
 
+## Examples 
+
+* [Solved By Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+ * [Input Add-ons](http://jsbin.com/aPAvoPe/2/)
+
 ## Further reading
 
 * [2009 spec](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) (w3.org)
