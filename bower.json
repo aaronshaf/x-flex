@@ -1,11 +1,11 @@
 {
   "name": "x-flex",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "homepage": "https://github.com/aaronshaf/x-flex",
   "authors": [
     "Aaron Shafovaloff <aaronshaf@gmail.com>"
   ],
-  "description": "Micro-classes for CSS flex. Supports latest two major versions of browsers.",
+  "description": "Micro-classes for CSS flex. Tested against two latest major versions of browsers.",
   "main": "index.css",
   "keywords": [
     "css",
