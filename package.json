@@ -1,6 +1,6 @@
 {
   "name": "x-flex",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Micro-classes for CSS flex. Tested against two latest major versions of browsers.",
   "main": "index.css",
   "directories": {

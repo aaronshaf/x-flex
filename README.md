@@ -16,17 +16,17 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 .flex-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-row | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.flex-row-reverse](http://jsbin.com/EHILoMUG/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.flex-row-reverse](http://jsbin.com/EHILoMUG/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-column | ✓<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.flex-column-reverse](http://jsbin.com/eGiHizE/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.flex-column-reverse](http://jsbin.com/eGiHizE/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-order-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ 
-[.flex-wrap](http://jsbin.com/eyOSOhEK/2/edit?html,css,output) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✓ | ✓ | ✗ | ✓
-[.flex-wrap-reverse](http://jsbin.com/oMepIziL/1/edit?html,css,output) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✗ | ✓ | ✗ | ✗
-.align-items-start |  |  |  |  |  |  |  | 
-[.align-items-end](http://jsbin.com/ayULeBE/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
-[.align-items-center](http://jsbin.com/uQofeKIM/1/edit?html,css,output) | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓ | ✓
-.align-items-baseline |  |  |  |  |  |  |  | 
-.align-items-stretch |  |  |  |  |  |  |  | 
+[.flex-wrap](http://jsbin.com/eyOSOhEK/2) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✓ | ✓ | ✗ | ✓
+[.flex-wrap-reverse](http://jsbin.com/oMepIziL/1) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✗ | ✓ | ✗ | ✗
+[.align-items-start](http://jsbin.com/ijorizo/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.align-items-end](http://jsbin.com/ayULeBE/1) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
+[.align-items-center](http://jsbin.com/uQofeKIM/1) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
+[.align-items-baseline](http://jsbin.com/AWOLUjEZ/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.align-items-stretch](http://jsbin.com/uzOWOdoP/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 ### Heads up
 
