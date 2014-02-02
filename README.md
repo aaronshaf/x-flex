@@ -23,8 +23,8 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 [.flex-wrap](http://jsbin.com/eyOSOhEK/2) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✓ | ✓ | ✗ | ✓
 [.flex-wrap-reverse](http://jsbin.com/oMepIziL/1) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✗ | ✓ | ✗ | ✗
 [.align-items-start](http://jsbin.com/ijorizo/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.align-items-end](http://jsbin.com/ayULeBE/1) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
-[.align-items-center](http://jsbin.com/uQofeKIM/1) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
+[.align-items-end](http://jsbin.com/ayULeBE/2/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.align-items-center](http://jsbin.com/epIGugO/2/) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
 [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 [.align-items-stretch](http://jsbin.com/uzOWOdoP/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
