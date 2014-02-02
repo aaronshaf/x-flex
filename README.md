@@ -22,7 +22,7 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 .flex-order-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-nowrap |   |   |   |   |   |   |   |  
 [.flex-wrap](http://jsbin.com/eyOSOhEK/2/edit?html,css,output) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
-[.flex-wrap-reverse](http://jsbin.com/oMepIziL/1/edit?html,css,output) |   |   |   |   |   |   |   |  
+[.flex-wrap-reverse](http://jsbin.com/oMepIziL/1/edit?html,css,output) | ✓ | ✓ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗
 
 ### Heads up
 
