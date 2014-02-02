@@ -96,11 +96,51 @@
   -ms-flex-direction: column-reverse;
   flex-direction: column-reverse;
 }
+
+.flex-nowrap {
+  /* 2009 */
+  -webkit-box-lines: single;
+  -ms-box-lines: single;
+  box-lines: single;
+
+  /* 2012 */
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap
+}
  
 .flex-wrap {
+  /* 2009 */
+  -webkit-box-lines: multiple;
+  -ms-box-lines: multiple;
+  box-lines: multiple;
+
+  /* 2011 */
+  -webkit-flex-flow: wrap;
+  -moz-flex-flow: wrap;
+  -ms-flex-flow: wrap;
+  -o-flex-flow: wrap;
+  flex-flow: wrap;
+  /* flex-line-pack */
+
+  /* 2012 */
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+  /* 2011 */
+  -webkit-flex-flow: wrap-reverse;
+  -moz-flex-flow: wrap-reverse;
+  -ms-flex-flow: wrap-reverse;
+  -o-flex-flow: wrap-reverse;
+  flex-flow: wrap-reverse;
+
+  /* 2012 */
+  -webkit-flex-wrap: wrap-reverse;
+  -ms-flex-wrap: wrap-reverse;
+  flex-wrap: wrap-reverse;
 }
 
 .flex-initial {

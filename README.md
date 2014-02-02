@@ -20,6 +20,9 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 .flex-column | ✓<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 [.flex-column-reverse](http://jsbin.com/eGiHizE/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-order-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+.flex-nowrap |   |   |   |   |   |   |   |  
+.flex-wrap |   |   |   |   |   |   |   |  
+.flex-wrap-reverse |   |   |   |   |   |   |   |  
 
 ### Heads up
 
