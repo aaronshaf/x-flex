@@ -53,9 +53,12 @@ Heads up: In IE10, .flex-column container requires explicit `height` or `top`/`b
 
 * [2009 spec](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) (w3.org)
 * [2011 spec](http://www.w3.org/TR/2011/WD-css3-flexbox-20111129/)
-* [2012 spec](http://www.w3.org/TR/css3-flexbox/) (latest)
-* [“Old” Flexbox and “New” Flexbox](http://css-tricks.com/old-flexbox-and-new-flexbox/) (css-tricks.com)
+* [2012 spec](http://www.w3.org/TR/css3-flexbox/) (latest))
 * [Compatibility Table for Flexible Box Layout Module](http://caniuse.com/#feat=flexbox) (caniuse.com)
 * [Some flex bugs in IE11](http://codepen.io/lerouxb/pen/jIkpD) (codepen.io)
-* [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+* [“Old” Flexbox and “New” Flexbox](http://css-tricks.com/old-flexbox-and-new-flexbox/) (css-tricks.com
+* [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/) (css-tricks.com)
+* [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/) (github.io)
+* [flexplorer](http://bennettfeely.com/flexplorer/) (bennettfeely.com)
+* [Advanced cross-browser flexbox](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/) (dev.opera.com)
+* [Working with flexbox: The new specification](http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html) (adobe.com)
