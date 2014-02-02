@@ -25,6 +25,12 @@ bower install x-flex
 [.align-items-center](http://jsbin.com/epIGugO/2/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 [.align-items-stretch](http://jsbin.com/uzOWOdoP/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.align-content-start](http://jsbin.com/UbaGiMAv/1/) |  |  |  |  |  | ✓ |  | 
+[.align-content-end](http://jsbin.com/IBUpufA/1/) |  |  |  |  |  | ✓ |  | 
+[.align-content-center](http://jsbin.com/afEYAGA/1/) |  |  |  |  |  | ✓ |  | 
+[.align-content-space-between](http://jsbin.com/esIHijIv/1/) |  |  |  |  |  | ✓ |  | 
+[.align-content-space-around](http://jsbin.com/upuRoxEN/1/) |  |  |  |  |  | ✓ |  | 
+[.align-content-stretch](http://jsbin.com/IHeweLi/1/) |  |  |  |  |  | ✓ |  | 
 
 ### Heads up
 
