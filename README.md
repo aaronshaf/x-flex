@@ -25,7 +25,7 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 .align-items-start |  |  |  |  |  |  |  | 
 [.align-items-end](http://jsbin.com/ayULeBE/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
 [.align-items-center](http://jsbin.com/uQofeKIM/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
-[.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit?html,css,output) |  |  |  |  |  |  |  | ✓
+[.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 [.align-items-stretch](http://jsbin.com/uzOWOdoP/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 ### Heads up
