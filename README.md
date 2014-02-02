@@ -16,15 +16,14 @@ bower install x-flex
 * .flex-order-x
 * .flex-row
 * [.flex-row-reverse](http://jsbin.com/EHILoMUG/1)
-* .flex-column<sup>1</sup>
+* .flex-column
+ * In IE10, container requires explicit `height` or `top`/`bottom` property if it has flexed children.
 * [.flex-column-reverse](http://jsbin.com/eGiHizE/1)
 * [.align-items-start](http://jsbin.com/ijorizo/1)
 * [.align-items-end](http://jsbin.com/ayULeBE/2/)
 * [.align-items-center](http://jsbin.com/epIGugO/2/)
 * [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1)
 * [.align-items-stretch](http://jsbin.com/uzOWOdoP/1)
-
-1. In IE10, container requires explicit `height` or `top`/`bottom` property if it has flexed children.
 
 ### Partially supported
 
