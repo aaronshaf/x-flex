@@ -160,35 +160,30 @@
 /* Align self */
 
 .align-self-start {
-  -webkit-box-align: start;
-  -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
+  -webkit-align-self: flex-start;
   align-self: flex-start;
 }
  
 .align-self-end {
-  -webkit-box-align: start;
   -webkit-align-self: flex-end;
   -ms-flex-item-align: end;
   align-self: flex-end;
 }
  
 .align-self-center {
-  -webkit-box-align: center;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
 }
  
 .align-self-baseline {
-  -webkit-box-align: baseline;
   -webkit-align-self: baseline;
   -ms-flex-item-align: baseline;
   align-self: baseline;
 }
  
 .align-self-stretch {
-  -webkit-box-align: stretch;
   -webkit-align-self: stretch;
   -ms-flex-item-align: stretch;
   align-self: stretch;

@@ -23,11 +23,6 @@ bower install x-flex
 * [.align-items-center](http://jsbin.com/epIGugO/2/)
 * [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1)
 * [.align-items-stretch](http://jsbin.com/uzOWOdoP/1)
-* [.align-self-start](http://jsbin.com/obibEzE/1/)
-* [.align-self-end](http://jsbin.com/AXOlUco/1/)
-* [.align-self-center](http://jsbin.com/IWOtadoL/1/)
-* [.align-self-baseline](http://jsbin.com/eKAfiHa/1/)
-* [.align-self-stretch](http://jsbin.com/OcUjiCeB/1/)
 
 Heads up: In IE10, .flex-column container requires explicit `height` or `top`/`bottom` property if it has flexed children.
 
@@ -43,6 +38,11 @@ Heads up: In IE10, .flex-column container requires explicit `height` or `top`/`b
 [.align-content-space-between](http://jsbin.com/esIHijIv/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
 [.align-content-space-around](http://jsbin.com/upuRoxEN/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
 [.align-content-stretch](http://jsbin.com/IHeweLi/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
+[.align-self-start](http://jsbin.com/obibEzE/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-self-end](http://jsbin.com/AXOlUco/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-self-center](http://jsbin.com/IWOtadoL/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-self-baseline](http://jsbin.com/eKAfiHa/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-self-stretch](http://jsbin.com/OcUjiCeB/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
 
 ## Further reading
 
