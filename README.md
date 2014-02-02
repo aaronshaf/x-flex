@@ -12,19 +12,19 @@ bower install x-flex
 
 ### Fully supported
 
- | [IE 10](http://msdn.microsoft.com/en-us/library/ie/hh673531%28v=vs.85%29.aspx) | IE 11 | FF 25 | FF 26 | Ch 31 | Ch 32 | Sf 6 | Sf 7
---- | --- | --- | --- | --- | --- | --- | --- | ---
-.flex-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-.flex-row | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.flex-row-reverse](http://jsbin.com/EHILoMUG/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-.flex-column | ✓<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.flex-column-reverse](http://jsbin.com/eGiHizE/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-.flex-order-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ 
-[.align-items-start](http://jsbin.com/ijorizo/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.align-items-end](http://jsbin.com/ayULeBE/2/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.align-items-center](http://jsbin.com/epIGugO/2/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.align-items-baseline](http://jsbin.com/AWOLUjEZ/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-[.align-items-stretch](http://jsbin.com/uzOWOdoP/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+* .flex-x
+* .flex-order-x
+* .flex-row
+* [.flex-row-reverse](http://jsbin.com/EHILoMUG/1)
+* .flex-column<sup>1</sup>
+* [.flex-column-reverse](http://jsbin.com/eGiHizE/1)
+* [.align-items-start](http://jsbin.com/ijorizo/1)
+* [.align-items-end](http://jsbin.com/ayULeBE/2/)
+* [.align-items-center](http://jsbin.com/epIGugO/2/)
+* [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1)
+* [.align-items-stretch](http://jsbin.com/uzOWOdoP/1)
+
+1. In IE10, container requires explicit `height` or `top`/`bottom` property if it has flexed children.
 
 ### Partially supported
 
@@ -38,10 +38,6 @@ bower install x-flex
 [.align-content-space-between](http://jsbin.com/esIHijIv/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
 [.align-content-space-around](http://jsbin.com/upuRoxEN/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
 [.align-content-stretch](http://jsbin.com/IHeweLi/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
-
-### Heads up
-
-1. Container requires explicit `height` or `top`/`bottom` property if it has flexed children.
 
 ## Further reading
 
