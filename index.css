@@ -186,18 +186,32 @@
   align-items: flex-start;
 }
  
+.align-items-end {
+  -webkit-align-items: flex-end;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+}
+ 
 .align-items-center {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
 }
- 
-.align-items-end {
-  -webkit-align-items: flex-end;
-  -webkit-box-align: end;
-  -ms-flex-align: end;
-  align-items: flex-end;
+
+.align-items-baseline {
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+}
+
+.align-items-stretch {
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
 }
 
 /* Flex proportion */
