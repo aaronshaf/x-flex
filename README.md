@@ -23,8 +23,12 @@ bower install x-flex
 * [.align-items-center](http://jsbin.com/epIGugO/2/)
 * [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1)
 * [.align-items-stretch](http://jsbin.com/uzOWOdoP/1)
+* [.justify-content-end](http://jsbin.com/OcUjiCeB/2/)
+* [.justify-content-center](http://jsbin.com/ebExUVE/1/)
+* [.justify-content-space-between](http://jsbin.com/ORiQEgi/1/)
+[.justify-content-space-around](http://jsbin.com/UyUFUgId/1/)
 
-Heads up: In IE10, .flex-column container requires explicit `height` or `top`/`bottom` property if it has flexed children.
+Heads up: In IE10, a .flex-column container requires an explicit `height` or `top`/`bottom` property if it has flexed children.
 
 ### Partially supported
 
