@@ -24,9 +24,9 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 [.flex-wrap-reverse](http://jsbin.com/oMepIziL/1/edit?html,css,output) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✗ | ✓ | ✗ | ✗
 .align-items-start |  |  |  |  |  |  |  | 
 [.align-items-end](http://jsbin.com/ayULeBE/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
-[.align-items-center](http://jsbin.com/uQofeKIM/1/edit?html,css,output) | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓ | ✓
-.align-items-baseline |  |  |  |  |  |  |  | 
-.align-items-stretch |  |  |  |  |  |  |  | 
+[.align-items-center](http://jsbin.com/uQofeKIM/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ? | ✓ | ✓ | ✓
+[.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit?html,css,output) |  |  |  |  |  |  |  | ✓
+[.align-items-stretch](http://jsbin.com/uzOWOdoP/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 ### Heads up
 
