@@ -16,10 +16,13 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 .flex-x | ✓ | ✓ | ✓ |  ✓| ✓ | ✓ | ✓ | ✓
 .flex-row | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-.flex-row-reverse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.flex-row-reverse](http://jsbin.com/EHILoMUG/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-column | ✓<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-.flex-column-reverse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+[.flex-column-reverse](http://jsbin.com/eGiHizE/1/edit?html,css,output) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 .flex-order-x | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+.flex-nowrap |   |   |   |   |   |   |   |  
+.flex-wrap |   |   |   |   |   |   |   |  
+.flex-wrap-reverse |   |   |   |   |   |   |   |  
 
 ### Heads up
 
@@ -34,3 +37,4 @@ See the [tests](http://aaronshaf.github.io/x-flex/tests/).
 * [Compatibility Table for Flexible Box Layout Module](http://caniuse.com/#feat=flexbox) (caniuse.com)
 * [Some flex bugs in IE11](http://codepen.io/lerouxb/pen/jIkpD) (codepen.io)
 * [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
