@@ -13,6 +13,7 @@ bower install x-flex
 ### Fully supported
 
 * .flex
+* .inline-flex
 * [.flex-x](http://jsbin.com/OCUloTi/2/)
 * [.flex-order-x](http://jsbin.com/OreLiGi/2/)
 * .flex-row (default)
@@ -67,7 +68,8 @@ bower install x-flex
 * [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/) (css-tricks.com)
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/) (github.io)
 * [flexplorer](http://bennettfeely.com/flexplorer/) (bennettfeely.com)
-* [flexy boxes](http://the-echoplex.net/flexyboxes/)
+* [flexy boxes](http://the-echoplex.net/flexyboxes/) (the-echoplex.net)
 * [Flexbox — fast track to layout nirvana?](http://dev.opera.com/articles/view/flexbox-basics/) (dev.opera.com)
 * [Advanced cross-browser flexbox](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/) (dev.opera.com)
 * [Working with flexbox: The new specification](http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html) (adobe.com)
+* [Flexbox / Flexible Box Layout CSS Reference](http://ptb2.me/flexbox/) (ptb2.me)
