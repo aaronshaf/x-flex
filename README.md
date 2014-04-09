@@ -13,22 +13,22 @@ bower install x-flex
 ### Fully supported
 
 * .flex
-* [.flex-x](http://jsbin.com/OCUloTi/2/)
-* [.flex-order-x](http://jsbin.com/OreLiGi/2/)
+* [.flex-x](http://jsbin.com/OCUloTi/2/edit)
+* [.flex-order-x](http://jsbin.com/OreLiGi/2/edit)
 * .flex-row (default)
-* [.flex-row-reverse](http://jsbin.com/EHILoMUG/1)
-* [.flex-column](http://jsbin.com/aVabEWOR/2/)<sup>1</sup>
-* [.flex-column-reverse](http://jsbin.com/eGiHizE/1)
+* [.flex-row-reverse](http://jsbin.com/EHILoMUG/1/edit)
+* [.flex-column](http://jsbin.com/aVabEWOR/2/edit)<sup>1</sup>
+* [.flex-column-reverse](http://jsbin.com/eGiHizE/1/edit)
 * .align-items-stretch (default)
-* [.align-items-start](http://jsbin.com/ijorizo/1)
-* [.align-items-end](http://jsbin.com/ayULeBE/2/)
-* [.align-items-center](http://jsbin.com/epIGugO/2/)
-* [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1)
+* [.align-items-start](http://jsbin.com/ijorizo/1/edit)
+* [.align-items-end](http://jsbin.com/ayULeBE/2/edit)
+* [.align-items-center](http://jsbin.com/epIGugO/2/edit)
+* [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit)
 * .justify-content-start (default)
-* [.justify-content-end](http://jsbin.com/OcUjiCeB/2/)
-* [.justify-content-center](http://jsbin.com/ebExUVE/1/)
-* [.justify-content-space-between](http://jsbin.com/ORiQEgi/1/)
-* [.justify-content-space-around](http://jsbin.com/UyUFUgId/1/)
+* [.justify-content-end](http://jsbin.com/OcUjiCeB/2/edit)
+* [.justify-content-center](http://jsbin.com/ebExUVE/1/edit)
+* [.justify-content-space-between](http://jsbin.com/ORiQEgi/1/edit)
+* [.justify-content-space-around](http://jsbin.com/UyUFUgId/1/edit)
 
 <sup>1</sup> Heads up: In IE10, a .flex-column container requires an explicit `height` or `top`/`bottom` property if it has flexed children.
 
