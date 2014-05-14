@@ -14,7 +14,7 @@ bower install x-flex
 
 * .flex
 * [.flex-x](http://jsbin.com/OCUloTi/5/edit)
-* [.flex-order-x](http://jsbin.com/OCUloTi/5/edit)
+* [.flex-order-x](http://jsbin.com/OreLiGi/3/edit)
 * .flex-row (default)
 * [.flex-row-reverse](http://jsbin.com/EHILoMUG/1/edit)
 * [.flex-column](http://jsbin.com/aVabEWOR/2/edit)<sup>1</sup>
