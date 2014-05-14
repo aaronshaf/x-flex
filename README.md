@@ -25,7 +25,7 @@ bower install x-flex
 * [.align-items-center](http://jsbin.com/epIGugO/3/edit)
 * [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit)
 * .justify-content-start (default)
-* [.justify-content-end](http://jsbin.com/OcUjiCeB/2/edit)
+* [.justify-content-end](http://jsbin.com/OcUjiCeB/3/edit)
 * [.justify-content-center](http://jsbin.com/ebExUVE/1/edit)
 * [.justify-content-space-between](http://jsbin.com/ORiQEgi/1/edit)
 * [.justify-content-space-around](http://jsbin.com/UyUFUgId/1/edit)
