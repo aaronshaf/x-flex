@@ -35,16 +35,16 @@ bower install x-flex
 
 ### Partially supported
 
- | [IE 10](http://msdn.microsoft.com/en-us/library/ie/hh673531%28v=vs.85%29.aspx) | IE 11 | FF 25 | FF 26 | Ch 31 | Ch 32 | Sf 6 | Sf 7
+ | [IE 10](http://msdn.microsoft.com/en-us/library/ie/hh673531%28v=vs.85%29.aspx) | IE 11 | FF 28 | FF 29 | Ch 31 | Ch 32 | Sf 6 | Sf 7
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 .inline-flex | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
-[.flex-wrap](http://jsbin.com/eyOSOhEK/2) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✓ | ✓ | ✗ | ✓
-[.flex-wrap-reverse](http://jsbin.com/oMepIziL/1) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✗ | ✓ | ✗ | ✗
-[.align-content-start](http://jsbin.com/UbaGiMAv/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
-[.align-content-center](http://jsbin.com/afEYAGA/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
-[.align-content-space-between](http://jsbin.com/esIHijIv/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
-[.align-content-space-around](http://jsbin.com/upuRoxEN/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
-[.align-content-stretch](http://jsbin.com/IHeweLi/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
+[.flex-wrap](http://jsbin.com/eyOSOhEK/2) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.flex-wrap-reverse](http://jsbin.com/oMepIziL/1) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗
+[.align-content-start](http://jsbin.com/UbaGiMAv/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-content-center](http://jsbin.com/afEYAGA/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-content-space-between](http://jsbin.com/esIHijIv/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-content-space-around](http://jsbin.com/upuRoxEN/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
+[.align-content-stretch](http://jsbin.com/IHeweLi/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
 [.align-self-start](http://jsbin.com/obibEzE/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
 [.align-self-end](http://jsbin.com/AXOlUco/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
 [.align-self-center](http://jsbin.com/IWOtadoL/1/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✓
