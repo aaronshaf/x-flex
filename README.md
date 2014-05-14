@@ -24,6 +24,7 @@ bower install x-flex
 * [.align-items-end](http://jsbin.com/ayULeBE/3/edit)
 * [.align-items-center](http://jsbin.com/epIGugO/3/edit)
 * [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit)
+* [.align-content-end](http://jsbin.com/IBUpufA/1/edit)
 * .justify-content-start (default)
 * [.justify-content-end](http://jsbin.com/OcUjiCeB/3/edit)
 * [.justify-content-center](http://jsbin.com/ebExUVE/2/edit)
@@ -40,7 +41,6 @@ bower install x-flex
 [.flex-wrap](http://jsbin.com/eyOSOhEK/2) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✓ | ✓ | ✗ | ✓
 [.flex-wrap-reverse](http://jsbin.com/oMepIziL/1) | ✓ | ✓ | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | [✗](https://bugzilla.mozilla.org/show_bug.cgi?id=702508) | ✗ | ✓ | ✗ | ✗
 [.align-content-start](http://jsbin.com/UbaGiMAv/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
-[.align-content-end](http://jsbin.com/IBUpufA/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ | ✓
 [.align-content-center](http://jsbin.com/afEYAGA/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
 [.align-content-space-between](http://jsbin.com/esIHijIv/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
 [.align-content-space-around](http://jsbin.com/upuRoxEN/1/) | ✓ | ✓ | ✗ | ✗ | ✓ | ✓ | ✗ | ✓
