@@ -13,7 +13,7 @@ bower install x-flex
 ### Fully supported
 
 * .flex
-* [.flex-x](http://jsbin.com/OCUloTi/4/edit)
+* [.flex-x](http://jsbin.com/OCUloTi/5/edit)
 * [.flex-order-x](http://jsbin.com/OreLiGi/2/edit)
 * .flex-row (default)
 * [.flex-row-reverse](http://jsbin.com/EHILoMUG/1/edit)
