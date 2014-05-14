@@ -22,7 +22,7 @@ bower install x-flex
 * .align-items-stretch (default)
 * [.align-items-start](http://jsbin.com/ijorizo/4/edit)
 * [.align-items-end](http://jsbin.com/ayULeBE/3/edit)
-* [.align-items-center](http://jsbin.com/epIGugO/2/edit)
+* [.align-items-center](http://jsbin.com/epIGugO/3/edit)
 * [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit)
 * .justify-content-start (default)
 * [.justify-content-end](http://jsbin.com/OcUjiCeB/2/edit)
