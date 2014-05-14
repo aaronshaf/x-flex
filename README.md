@@ -20,7 +20,7 @@ bower install x-flex
 * [.flex-column](http://jsbin.com/aVabEWOR/3/edit)<sup>1</sup>
 * [.flex-column-reverse](http://jsbin.com/eGiHizE/1/edit)
 * .align-items-stretch (default)
-* [.align-items-start](http://jsbin.com/ijorizo/1/edit)
+* [.align-items-start](http://jsbin.com/ijorizo/4/edit)
 * [.align-items-end](http://jsbin.com/ayULeBE/2/edit)
 * [.align-items-center](http://jsbin.com/epIGugO/2/edit)
 * [.align-items-baseline](http://jsbin.com/AWOLUjEZ/1/edit)
