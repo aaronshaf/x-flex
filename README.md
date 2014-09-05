@@ -73,6 +73,5 @@ bower install x-flex
 * [Advanced cross-browser flexbox](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/) (dev.opera.com)
 * [Working with flexbox: The new specification](http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html) (adobe.com)
 * [Flexbox / Flexible Box Layout CSS Reference](http://ptb2.me/flexbox/) (ptb2.me)
-
 * [Flexercise Introduction](https://www.youtube.com/watch?v=QEn4XXYEdp4)
 * [Flexercise for seniors](https://www.youtube.com/watch?v=VlOhC81STg0)
